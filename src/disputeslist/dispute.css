@@ -1,0 +1,51 @@
+.AboutInput {
+	font-size: x-large;
+	padding-bottom: 50px;
+	border-radius: 20px;
+	text-transform: uppercase;
+}
+.showAbout {
+	font-size: x-small;
+	
+}
+
+.disputesTitle {
+
+	padding: 20px;
+}
+
+.lastAdd {
+	 border-radius: 70px; 
+      text-decoration: none;
+      text-transform: uppercase;
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      background-color: yellow;
+	  text-transform: uppercase;
+	  text-shadow: 2px 2px #ff0000;
+	  border: 2px solid black;
+	  padding: 8px;
+	  margin-top: 10px;
+}
+
+.addBtn {
+	border-radius: 2px;
+	text-shadow: 1px 1px #ff0000;
+}
+
+.createDispute {
+	/*background-size: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 0;
+	background-color: white; 
+	text-align: center;*/
+}

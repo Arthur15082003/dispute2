@@ -1,0 +1,31 @@
+.backBtn {
+	-webkit-border-radius: 28;
+  	-moz-border-radius: 28;
+  	border-radius: 14px;
+	text-shadow: 3px 2px 1px #ff0000;
+  	-webkit-box-shadow: 6px 5px 24px #666666;
+  	-moz-box-shadow: 6px 5px 24px #666666;
+  	box-shadow: 6px 5px 24px #666666;
+	font-family: Arial;
+  	color: #fafafa;
+  	font-size: 18px;
+  	padding: 10px;
+  	text-decoration: none;
+  	float: left;
+}
+
+.loginBtn {
+	-webkit-border-radius: 28;
+  	-moz-border-radius: 28;
+  	border-radius: 14px;
+	text-shadow: 3px 2px 1px #ff0000;
+  	-webkit-box-shadow: 6px 5px 24px #666666;
+  	-moz-box-shadow: 6px 5px 24px #666666;
+  	box-shadow: 6px 5px 24px #666666;
+	font-family: Arial;
+  	color: #fafafa;
+  	font-size: 18px;
+  	padding: 10px;
+  	text-decoration: none;
+  	float: right;
+}
